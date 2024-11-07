@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Cheeseburger",
+    "category": "Burger",
+    "price": 5.99,
+    "description": "A classic cheeseburger with a juicy beef patty, cheddar cheese, lettuce, tomato, and onion on a sesame seed bun."
+  },
+  {
+    "id": 2,
+    "name": "Veggie Burger",
+    "category": "Burger",
+    "price": 6.49,
+    "description": "A delicious veggie burger made with a black bean patty, lettuce, tomato, avocado, and vegan mayo on a whole wheat bun."
+  },
+  {
+    "id": 3,
+    "name": "Chicken Burger",
+    "category": "Burger",
+    "price": 6.99,
+    "description": "A crispy chicken fillet topped with lettuce, tomato, and mayo on a toasted bun."
+  },
+  {
+    "id": 4,
+    "name": "Double Cheeseburger",
+    "category": "Burger",
+    "price": 7.99,
+    "description": "Two beef patties with double the cheddar cheese, lettuce, tomato, and onion on a sesame seed bun."
+  },
+  {
+    "id": 5,
+    "name": "Bacon Cheeseburger",
+    "category": "Burger",
+    "price": 8.49,
+    "description": "A savory bacon cheeseburger with a beef patty, crispy bacon, cheddar cheese, lettuce, and tomato on a toasted bun."
+  },
+  {
+    "id": 6,
+    "name": "Mushroom Swiss Burger",
+    "category": "Burger",
+    "price": 7.49,
+    "description": "A flavorful beef patty topped with sautéed mushrooms and Swiss cheese, served with lettuce and tomato on a toasted bun."
+  },
+  {
+    "id": 7,
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 9.99,
+    "description": "A classic pepperoni pizza with a crispy crust, tomato sauce, mozzarella cheese, and spicy pepperoni slices."
+  },
+  {
+    "id": 8,
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "price": 8.99,
+    "description": "A traditional Italian pizza with fresh mozzarella, tomatoes, and basil leaves on a thin crust."
+  },
+  {
+    "id": 9,
+    "name": "BBQ Chicken Pizza",
+    "category": "Pizza",
+    "price": 10.49,
+    "description": "A delicious pizza topped with BBQ sauce, grilled chicken, red onions, and mozzarella cheese."
+  },
+  {
+    "id": 10,
+    "name": "Veggie Pizza",
+    "category": "Pizza",
+    "price": 9.49,
+    "description": "A healthy pizza loaded with bell peppers, onions, mushrooms, olives, and mozzarella cheese on a thin crust."
+  },
+  {
+    "id": 11,
+    "name": "Hawaiian Pizza",
+    "category": "Pizza",
+    "price": 10.99,
+    "description": "A sweet and savory pizza with ham, pineapple, and mozzarella cheese on a crispy crust."
+  },
+  {
+    "id": 12,
+    "name": "Four Cheese Pizza",
+    "category": "Pizza",
+    "price": 11.49,
+    "description": "A rich pizza topped with a blend of mozzarella, cheddar, Parmesan, and blue cheese on a thin crust."
+  },
+  {
+    "id": 13,
+    "name": "Large Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 14.99,
+    "description": "A large version of our classic pepperoni pizza with extra mozzarella cheese and spicy pepperoni slices."
+  },
+  {
+    "id": 14,
+    "name": "Large Margherita Pizza",
+    "category": "Pizza",
+    "price": 13.99,
+    "description": "A large traditional Italian pizza with fresh mozzarella, tomatoes, and basil leaves on a thin crust."
+  },
+  {
+    "id": 15,
+    "name": "Large BBQ Chicken Pizza",
+    "category": "Pizza",
+    "price": 15.49,
+    "description": "A large pizza topped with BBQ sauce, grilled chicken, red onions, and mozzarella cheese."
+  },
+  {
+    "id": 16,
+    "name": "Large Veggie Pizza",
+    "category": "Pizza",
+    "price": 14.49,
+    "description": "A large healthy pizza loaded with bell peppers, onions, mushrooms, olives, and mozzarella cheese on a thin crust."
+  },
+  {
+    "id": 17,
+    "name": "Large Hawaiian Pizza",
+    "category": "Pizza",
+    "price": 15.99,
+    "description": "A large sweet and savory pizza with ham, pineapple, and mozzarella cheese on a crispy crust."
+  },
+  {
+    "id": 18,
+    "name": "Large Four Cheese Pizza",
+    "category": "Pizza",
+    "price": 16.49,
+    "description": "A large rich pizza topped with a blend of mozzarella, cheddar, Parmesan, and blue cheese on a thin crust."
+  },
+  {
+    "id": 19,
+    "name": "Spaghetti Bolognese",
+    "category": "Pasta",
+    "price": 12.99,
+    "description": "A classic Italian pasta dish with spaghetti, rich tomato sauce, and seasoned ground beef."
+  },
+  {
+    "id": 20,
+    "name": "Chicken Alfredo",
+    "category": "Pasta",
+    "price": 13.49,
+    "description": "A creamy pasta dish with fettuccine, grilled chicken, and a rich Alfredo sauce."
+  },
+  {
+    "id": 21,
+    "name": "Penne Arrabbiata",
+    "category": "Pasta",
+    "price": 11.99,
+    "description": "A spicy Italian pasta dish with penne, tangy tomato sauce, and red chili flakes."
+  },
+  {
+    "id": 22,
+    "name": "Shrimp Scampi",
+    "category": "Pasta",
+    "price": 14.49,
+    "description": "A flavorful pasta dish with linguine, sautéed shrimp, garlic, butter, and white wine sauce."
+  },
+  {
+    "id": 23,
+    "name": "Lasagna",
+    "category": "Pasta",
+    "price": 13.99,
+    "description": "A hearty Italian dish with layers of pasta, rich meat sauce, ricotta cheese, and melted mozzarella."
+  },
+  {
+    "id": 24,
+    "name": "Mac and Cheese",
+    "category": "Pasta",
+    "price": 9.99,
+    "description": "A creamy and cheesy pasta dish with elbow macaroni and a rich cheddar cheese sauce."
+  },
+  {
+    "id": 25,
+    "name": "Caesar Salad",
+    "category": "Salad",
+    "price": 7.99,
+    "description": "A fresh salad with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing."
+  },
+  {
+    "id": 26,
+    "name": "Greek Salad",
+    "category": "Salad",
+    "price": 8.49,
+    "description": "A healthy salad with cucumbers, tomatoes, red onions, olives, feta cheese, and Greek dressing."
+  },
+  {
+    "id": 27,
+    "name": "Chicken Salad",
+    "category": "Salad",
+    "price": 9.49,
+    "description": "A light salad with mixed greens, grilled chicken, tomatoes, cucumbers, and balsamic vinaigrette."
+  },
+  {
+    "id": 28,
+    "name": "Caprese Salad",
+    "category": "Salad",
+    "price": 8.99,
+    "description": "A refreshing salad with fresh mozzarella, tomatoes, basil, and balsamic glaze."
+  },
+  {
+    "id": 29,
+    "name": "Cobb Salad",
+    "category": "Salad",
+    "price": 10.49,
+    "description": "A hearty salad with mixed greens, grilled chicken, bacon, eggs, avocado, and blue cheese dressing."
+  },
+  {
+    "id": 30,
+    "name": "Taco Salad",
+    "category": "Salad",
+    "price": 9.99,
+    "description": "A flavorful salad with ground beef, lettuce, tomatoes, cheddar cheese, and taco dressing."
+  }
+]

@@ -1,0 +1,16 @@
+TWILIO_ACCOUNT_SID="AC6c696530a3b05f1f3027c1a8d77bad54"
+TWILIO_AUTH_TOKEN="976761b1e590a2ec33d4f669aa2b9f52"
+TWILIO_SERVICE_SID="VA550ac22341819f52cf6243b4b00200bf"
+
+SMTP_EMAIL=DSKRestaurant@gmail.com
+SMTP_HOST=sandbox.smtp.mailtrap.io
+SMTP_PORT=587
+SMTP_USER=e20637e629f2cc
+SMTP_PASSWORD="********d6ac"
+NEXT_PUBLIC_BASE_URL=http://localhost:3000
+
+MONGODB_URI=mongodb+srv://sherkhan:sherkhan@cluster0.ybl5oh9.mongodb.net/restuarent?retryWrites=true&w=majority&appName=Cluster0
+
+JWT_SECRET=dilbarekhan1234
+ 
+ NODE_ENV=production npm run start
